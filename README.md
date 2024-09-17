@@ -4,7 +4,7 @@
  <div  align="center">
   <img height="300" src="https://wallpaper.forfun.com/fetch/b8/b8b3fb9553264b04024ef476b9e59cfb.jpeg"  />
 </div>
-<hr bgcolor="blue">
+<hr bgcolor="green">
 
 <div align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ujjalmahata02.ujjalmahata02&left_color=blue&right_color=black" height="20" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/ujjalmahata02" height="20"/>
