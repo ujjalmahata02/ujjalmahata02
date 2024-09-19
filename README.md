@@ -2,9 +2,9 @@
 <h3 align="center">A Computer Engineering Student </h3>
 
  <div  align="center">
-  <img height="800" src="https://miro.medium.com/v2/resize:fit:735/1*M09MHdb8XiXaEnnEh-tAgQ.jpeg"</div>
+  <img height="600" src="https://miro.medium.com/v2/resize:fit:735/1*M09MHdb8XiXaEnnEh-tAgQ.jpeg"</div>
   
-<hr bgcolor="blue">
+<hr bgcolor="red">
 
 <div align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ujjalmahata02.ujjalmahata02&left_color=blue&right_color=black" height="20" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/ujjalmahata02" height="20"/>
