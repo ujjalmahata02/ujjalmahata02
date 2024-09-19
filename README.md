@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Engineering Student </h3>
 
  <div  align="center">
-  <img height="500" src="https://miro.medium.com/v2/resize:fit:735/1*M09MHdb8XiXaEnnEh-tAgQ.jpeg"</div>
+  <img height="2000" src="https://miro.medium.com/v2/resize:fit:735/1*M09MHdb8XiXaEnnEh-tAgQ.jpeg"</div>
   
 <hr bgcolor="blue">
 
