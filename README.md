@@ -2,7 +2,8 @@
 <h3 align="center">A Computer Engineering Student </h3>
 
  <div  align="center">
-  <img height="300" src="https://wallpaper.forfun.com/fetch/b8/b8b3fb9553264b04024ef476b9e59cfb.jpeg"  />
+  <img height="300" src="![Screenshot (99)](https://github.com/user-attachments/assets/b7e6378a-29f9-443e-8f62-aab7f105f218)
+"  />
 </div>
 <hr bgcolor="green">
 
