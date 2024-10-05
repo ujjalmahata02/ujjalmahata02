@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Engineering Student </h3>
 
  <div  align="center">
-  <img height="600" src="https://motionbgs.com/media/3584/zoro-one-piece.jpg"</div>
+  <img height="500" src="https://motionbgs.com/media/3584/zoro-one-piece.jpg"</div>
   
 <hr bgcolor="red">
 
