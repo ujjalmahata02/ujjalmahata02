@@ -66,8 +66,8 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ujjalmahata02.ujjalmahata02&left_color=blue&right_color=black" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/ujjalmahata02"/>
 <div align="center">
  <h4><i>Current stats:</i></h4>
-<p ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjalmahata02&theme=merko&show_icons=true&locale=en&layout=compact" alt="Most Used Language" height=150/> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjalmahata02&theme=merko" alt="Streak" height=145 />
+<p ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjalmahata02&theme=merko&show_icons=true&locale=en&layout=compact" alt="Most Used Language" height=145/> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjalmahata02&theme=merko" alt="Streak" height=140 />
  <hr>
   <h3 align="center">📊<i>Github Activity of <b>Ujjal Mahata</b></i></h3>
  <img src="https://github-readme-stats.vercel.app/api?username=ujjalmahata02&theme=merko&show_icons=true"/>
